@@ -1,3 +1,9 @@
+/*
+
+Guide for drop-down menu creation: https://www.freecodecamp.org/news/how-to-build-a-dropdown-menu-with-javascript/
+
+*/
+
 import "./style.css";
 
 const dropdownBtn = document.getElementById("btn");
